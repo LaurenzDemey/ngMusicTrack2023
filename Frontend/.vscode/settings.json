@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+      "**/*.js": {
+        "when": "$(basename).ts"
+      },
+      "node_modules": true,
+      "dist":true,
+      ".angular":true,
+      "tools":true
+    },
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": false,
+      "source.fixAll": true
+    },
+    "editor.formatOnSave": true,
+    "breadcrumbs.enabled": true,
+    "breadcrumbs.symbolPath": "off",    
+  }
+  
