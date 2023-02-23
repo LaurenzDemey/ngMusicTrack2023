@@ -480,10 +480,10 @@ import { CommonModule } from '@angular/common';
           <div id="learning-materials" class="rounded shadow">
             <h2>Learning materials</h2>
             <a
+              class="list-item-link"
               href="https://nx.dev/getting-started/intro?utm_source=nx-project"
               target="_blank"
               rel="noreferrer"
-              class="list-item-link"
             >
               <svg
                 fill="none"
@@ -517,10 +517,10 @@ import { CommonModule } from '@angular/common';
               </svg>
             </a>
             <a
+              class="list-item-link"
               href="https://blog.nrwl.io/?utm_source=nx-project"
               target="_blank"
               rel="noreferrer"
-              class="list-item-link"
             >
               <svg
                 fill="none"
@@ -554,10 +554,10 @@ import { CommonModule } from '@angular/common';
               </svg>
             </a>
             <a
+              class="list-item-link"
               href="https://www.youtube.com/@NxDevtools/videos?utm_source=nx-project&sub_confirmation=1"
               target="_blank"
               rel="noreferrer"
-              class="list-item-link"
             >
               <svg
                 role="img"
@@ -589,10 +589,10 @@ import { CommonModule } from '@angular/common';
               </svg>
             </a>
             <a
+              class="list-item-link"
               href="https://nx.dev/angular-tutorial/1-code-generation?utm_source=nx-project"
               target="_blank"
               rel="noreferrer"
-              class="list-item-link"
             >
               <svg
                 fill="none"
@@ -626,10 +626,10 @@ import { CommonModule } from '@angular/common';
               </svg>
             </a>
             <a
+              class="list-item-link"
               href="https://nxplaybook.com/?utm_source=nx-project"
               target="_blank"
               rel="noreferrer"
-              class="list-item-link"
             >
               <svg
                 fill="none"

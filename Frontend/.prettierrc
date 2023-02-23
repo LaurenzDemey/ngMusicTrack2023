@@ -1,8 +1,8 @@
 {
   "singleQuote": true,
   "attributeGroups": [
-    "$CLASS",
     "$ID",
+    "$CLASS",
     "$ANGULAR_ELEMENT_REF",
     "$ANGULAR_STRUCTURAL_DIRECTIVE",
     "$ANGULAR_ANIMATION",
